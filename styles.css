@@ -1,0 +1,171 @@
+#title{
+  background-color: #ff4c68;
+}
+.nav-item{
+
+  padding: 5px 20px;
+  border-right: 1px solid #ccc;
+  
+ font-size: 1.60rem;
+  
+}
+.navbar-brand { 
+
+  font-size: 3rem;
+font-weight: bold;
+
+
+}
+.iphone{
+  padding-top: 40px;
+   width: 60%;
+   padding-left: 10%;
+
+   /*
+  position: relative;
+  margin-left: 60%; */
+    transform: rotate(20deg);
+}
+.container-fluid.fluid{
+  padding: 3% 15%;
+}
+.paragraph{
+  font-family: 'Cairo', sans-serif;
+  color: white;
+  position: relative;
+  font-size: 2rem;
+  margin-top: 10%;
+}
+.navbar{
+  padding-bottom: 5%;
+
+}
+.row{
+  text-align: center;
+
+}
+.downloads{
+
+padding-top: 5%;
+
+}
+.download1{
+padding: 5px , 30px;
+
+}
+.download2:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: grey;
+    border-color: #285e8e; /*set the color you want here*/
+
+}
+.download1:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: grey;
+    background-color: white;
+    
+    border-color: #285e8e; /*set the color you want here*/
+
+}
+.feature{
+  padding: 30px 2px;
+}
+.co{
+    padding: 3% 15%;
+}
+.fas{
+  padding-bottom: 5%;
+  
+}
+.para{
+  color: grey;
+}
+#testimonials{
+  padding: 7% 15%;
+  background-color: #ef8172;
+  text-align: center;
+  color: white;
+ 
+
+font-size: 20px;
+}
+.co2{
+    padding: 3% 20%;
+    font-family: 'Cairo', sans-serif;
+  
+
+}
+.dog-img{
+  width: 15%;
+  border-radius: 50%;
+  margin: auto 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+
+  
+}
+.images{
+  width:10%;
+  margin: 20px 30px 50px;
+}
+.payment{
+padding: 1% 15%;
+
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ef8172;
+    border-color:  #ef8172;
+}
+.btn-primary {
+    color: #ef8172;
+    background-color: white;
+    border-color: #ef8172;
+}
+.btn-outline-primary:hover {
+    color: white;
+    background-color: #ef8172;
+    border-color: #ef8172;
+}
+.btn-outline-primary {
+    color: black;
+    border-color: black;
+}
+.bg-primary {
+    background-color: #ef8172 !important;
+}
+.border-primary {
+    border-color:  #ef8172 !important;
+}
+.payment-text{
+      font-family: 'Cairo', sans-serif;
+      font-size: 50px;
+      font-weight: bold;
+}
+.payment-text2{
+  color: grey;
+  
+font-size: 30px;
+}
+.payment-context{
+  padding: 3% 16%;
+
+}
+.footer1{
+  background-color: #ef8172;
+  color: white;
+}
+#footer2{
+  background-color:  #ef8172;
+  padding-bottom:1%; 
+  text-align: center;
+  color: white;
+  padding-top: 3%;
+}
+.downloads-two{
+
+padding-top: 2%;
+
+}
