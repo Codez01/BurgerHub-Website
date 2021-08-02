@@ -1,5 +1,5 @@
 #title{
-  background-color: #ff4c68;
+  background-color:rgb(240, 160, 11);
 }
 .nav-item{
 
@@ -11,12 +11,12 @@
 }
 .navbar-brand { 
 
-  font-size: 3rem;
+  font-size: 2rem;
 font-weight: bold;
 
 
 }
-.iphone{
+.phone{
   padding-top: 40px;
    width: 60%;
    padding-left: 10%;
@@ -81,7 +81,7 @@ padding: 5px , 30px;
 }
 #testimonials{
   padding: 7% 15%;
-  background-color: #ef8172;
+  background-color: #fcbf50;
   text-align: center;
   color: white;
  
@@ -94,13 +94,13 @@ font-size: 20px;
   
 
 }
-.dog-img{
+.chef-img{
   width: 15%;
   border-radius: 50%;
   margin: auto 20px;
 }
 #press{
-    background-color: #ef8172;
+    background-color:  #fcbf50;
     text-align: center;
     padding-bottom: 5%;
 
@@ -116,28 +116,28 @@ padding: 1% 15%;
 }
 .btn-primary:hover {
     color: #fff;
-    background-color: #ef8172;
-    border-color:  #ef8172;
+    background-color:  #fcbf50;
+    border-color:   #fcbf50;
 }
 .btn-primary {
-    color: #ef8172;
+    color:  #fcbf50;
     background-color: white;
-    border-color: #ef8172;
+    border-color:  #fcbf50;
 }
 .btn-outline-primary:hover {
     color: white;
-    background-color: #ef8172;
-    border-color: #ef8172;
+    background-color:  #fcbf50;
+    border-color:  #fcbf50;
 }
 .btn-outline-primary {
     color: black;
     border-color: black;
 }
 .bg-primary {
-    background-color: #ef8172 !important;
+    background-color:  #fcbf50 !important;
 }
 .border-primary {
-    border-color:  #ef8172 !important;
+    border-color:   #fcbf50 !important;
 }
 .payment-text{
       font-family: 'Cairo', sans-serif;
@@ -154,11 +154,11 @@ font-size: 30px;
 
 }
 .footer1{
-  background-color: #ef8172;
+  background-color:  #fcbf50;
   color: white;
 }
 #footer2{
-  background-color:  #ef8172;
+  background-color:  #fcbf50;
   padding-bottom:1%; 
   text-align: center;
   color: white;
@@ -168,4 +168,8 @@ font-size: 30px;
 
 padding-top: 2%;
 
+}
+.quote{
+  color: black;
+  font-size: 50px;
 }
