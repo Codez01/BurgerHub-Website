@@ -26,6 +26,19 @@ font-weight: bold;
   margin-left: 60%; */
     transform: rotate(20deg);
 }
+@media (max-width: 1028px){
+.phone{
+   padding-top: 40px;
+   width: 60%;
+   padding-left: 10%;
+
+   /*
+  position: relative;
+  margin-left: 60%; */
+    transform: rotate(0);
+
+}
+}
 .container-fluid.fluid{
   padding: 3% 15%;
 }
@@ -88,6 +101,18 @@ padding: 5px , 30px;
 
 font-size: 20px;
 }
+@media (max-width: 1028px){
+#testimonials{
+  padding: 0% 0%;
+  background-color: #fcbf50;
+  text-align: center;
+  color: white;
+ 
+
+font-size: 10px;
+}
+}
+
 .co2{
     padding: 3% 20%;
     font-family: 'Cairo', sans-serif;
@@ -172,4 +197,11 @@ padding-top: 2%;
 .quote{
   color: black;
   font-size: 50px;
+}
+
+@media (max-width: 1028px){
+  .quote{
+  color: black;
+  font-size: 30px;
+}
 }
